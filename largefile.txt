@@ -1,0 +1,4 @@
+Server started successfully
+Database connection error
+Backup completed
+File read error
